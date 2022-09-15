@@ -35,3 +35,4 @@ void times_tables(void)
 	}
 		_putchar('\n');
 	}
+}
